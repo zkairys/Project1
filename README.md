@@ -1,2 +1,2 @@
 # Project1
-HTML, SASS, Webpack, NPM, JQuery
+HTML, SASS, Webpack, NPM, React
